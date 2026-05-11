@@ -1,5 +1,6 @@
 # Introduction
 Name: Chufeng Jiang
+
 This is my computer graphics course materials with several projects created.
 
 # Interesting Projects
